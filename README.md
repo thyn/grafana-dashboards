@@ -1,4 +1,4 @@
 # Grafana-Dashboards
 
-[Windows Dashboards](Windows)
+[Windows Dashboards](Prometheus-Windows)
 
