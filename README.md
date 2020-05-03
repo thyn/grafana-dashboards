@@ -1,4 +1,4 @@
 # Grafana-Dashboards
 
-[Windows]
+[Windows Dashboards](Windows)
 
